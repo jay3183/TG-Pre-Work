@@ -1,0 +1,32 @@
+p {
+  font-family: Arial;
+}
+
+h1{
+  color: maroon;
+
+}
+
+.title{
+  color: teal;
+
+}
+
+.uppercase{
+  text-transform: uppercase;
+  }
+
+
+#article-title{
+  font-family: cursive;
+text-transform: capitalize;
+  }
+
+.publish-time{
+  color: gray;
+
+
+}
+
+
+<!----- By writing CSS classes, you can style elements in a variety of ways by mixing classes on HTML elements.----------------------->

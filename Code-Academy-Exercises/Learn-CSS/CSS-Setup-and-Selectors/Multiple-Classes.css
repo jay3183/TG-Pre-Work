@@ -1,0 +1,21 @@
+p {
+  font-family: Arial;
+}
+
+h1{
+  color: maroon;
+
+}
+
+.title{
+  color: teal;
+
+}
+
+.uppercase{
+  text-transform: uppercase;
+  }
+
+
+
+  <!----------You can add more than one class name to an HTML element's class attribute.------------------->
