@@ -1,0 +1,1 @@
+//*An introduction to objects was discussedThere are only seven fundamental data types in JavaScript, and six of those are the primitive data types: string, number, boolean, null, undefined, and symbol**//
