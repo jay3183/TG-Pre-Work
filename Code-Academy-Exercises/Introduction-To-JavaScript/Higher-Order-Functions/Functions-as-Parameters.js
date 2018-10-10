@@ -35,6 +35,8 @@ const checkConsistentOutput = (func, val) => {
 
 checkConsistentOutput(addTwo, 10);
 
+//**A higher-order function is a function that either accepts functions as parameters, returns a function, or both//
+
 
 
 
